@@ -6,9 +6,9 @@
 ---
 
 ### Professional Summary
-Software Engineer with over 3 years of experience developing scalable microservices and high-performance web applications. Expertise in **Java/Spring Boot**, **Node.js/React**, and **AWS Cloud infrastructure**.
+Software Engineer with over 3+ years of experience developing scalable microservices and high performance web applications. Expertise in **Java/Spring Boot**, **Node.js/React**, and **AWS Cloud infrastructure**.
 
-Previously at **Northcross Group** and **Infosys**, I delivered production features that improved system throughput by **35%** and reduced issue resolution time by **40%** through the implementation of observability infrastructure. Currently pursuing an MS in Computer Science at Northeastern University (GPA: 3.85).
+Previously at **Northcross Group**(6 months CO OP) and **Infosys**(3 Years),Currently pursuing an **MS in Computer Science at Northeastern University** (GPA: 3.85).
 
 ---
 
@@ -26,7 +26,7 @@ Previously at **Northcross Group** and **Infosys**, I delivered production featu
 ### Selected Engineering Work
 
 #### Brocode — Intelligent Code Review Assistant
-*Python, FastAPI, Gemini API, React*
+*Python, FastAPI, Gemini API, React, Javacsript*
 * Developed an AI system to automate code quality checks and security vulnerability detection.
 * Integrated GitHub Webhooks to intercept Pull Requests and post intelligent refactor suggestions directly as PR comments.
 
@@ -38,5 +38,5 @@ Previously at **Northcross Group** and **Infosys**, I delivered production featu
 ---
 
 ### Honors & Awards
-* **2nd Place:** The Roux Institute Hackathon
-* **Credo Award:** Awarded for exceptional technical service at Infosys
+* **2nd Place:** The Roux Institute Hackathon.
+* **Credo Award:** Awarded for exceptional technical service to Client.
