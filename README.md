@@ -1,14 +1,14 @@
 # Prajwal Gangadhar Melinamane
-**Software Engineer | MS CS Candidate @ Northeastern University**
+**Software Engineer | MS Computer Science Candidate @ Northeastern University**
 
 [Portfolio](https://www.prajwalgm.tech/) | [LinkedIn](https://linkedin.com/in/paztino) | [Email](mailto:gangadharmelinaman.p@northeastern.edu)
 
 ---
 
 ### Professional Summary
-Software Engineer with 3+ years of experience engineering scalable microservices and responsive frontend interfaces. Specialized in the **Java/Spring Boot** and **Node.js/React** ecosystems.
+Software Engineer with over 3 years of experience developing scalable microservices and high-performance web applications. Expertise in **Java/Spring Boot**, **Node.js/React**, and **AWS Cloud infrastructure**.
 
-[cite_start]Previously at **Northcross Group** and **Infosys**, where I shipped production features that improved system throughput by **35%** [cite: 22] [cite_start]and reduced issue resolution time by **40%** via observability infrastructure[cite: 33]. [cite_start]Currently pursuing an MS in Computer Science at Northeastern University (GPA: 3.85)[cite: 5].
+Previously at **Northcross Group** and **Infosys**, I delivered production features that improved system throughput by **35%** and reduced issue resolution time by **40%** through the implementation of observability infrastructure. Currently pursuing an MS in Computer Science at Northeastern University (GPA: 3.85).
 
 ---
 
@@ -16,42 +16,27 @@ Software Engineer with 3+ years of experience engineering scalable microservices
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend Engineering** | Java (Spring Boot), Node.js (Express), Python (Django/FastAPI), C++ |
-| **Frontend Development** | React, Next.js, TypeScript, JavaScript, Tailwind, GSAP |
-| **Data & Infrastructure** | AWS, Docker, Kubernetes, PostgreSQL, MySQL, NoSQL |
-| **DevOps & Tooling** | CI/CD Pipelines, ELK Stack, Swagger, Git, Artillery, Cypress |
+| **Languages** | Java, TypeScript, JavaScript, Python, C++, C# |
+| **Frameworks** | Spring Boot, React, Next.js, Node.js, Express, Django, Angular |
+| **Infrastructure** | AWS (Certified), Docker, Kubernetes, PostgreSQL, MySQL, NoSQL |
+| **Tooling/DevOps** | CI/CD, ELK Stack, Swagger, Git, Artillery, Cypress |
 
 ---
 
 ### Selected Engineering Work
 
-#### [Brocode - Intelligent Code Review Agent](LINK_TO_REPO)
+#### Brocode — Intelligent Code Review Assistant
 *Python, FastAPI, Gemini API, React*
-A production-grade AI system designed to automate code quality checks.
-* **Architecture:** Integrated GitHub Webhooks to intercept PRs, extracting code diffs for analysis.
-* **AI Integration:** Leverages LLM APIs (Gemini) to detect security vulnerabilities and suggest refactors.
-* [cite_start]**Impact:** Automates the feedback loop by posting intelligent review comments directly on PRs[cite: 38].
+* Developed an AI system to automate code quality checks and security vulnerability detection.
+* Integrated GitHub Webhooks to intercept Pull Requests and post intelligent refactor suggestions directly as PR comments.
 
-#### [JudgmentDay - Predictive Sports Platform](LINK_TO_REPO)
+#### JudgmentDay — Sports Prediction Platform
 *TypeScript, Next.js, PostgreSQL, Node.js*
-Full-stack web application optimized for high-concurrency performance.
-* [cite_start]**Performance:** Implemented a highly responsive UI with React/TypeScript, focusing on Core Web Vitals[cite: 41].
-* [cite_start]**Backend:** Designed a normalized PostgreSQL schema and RESTful APIs to handle real-time data flow[cite: 42].
+* Built a full-stack platform with a focus on web performance and Core Web Vitals.
+* Designed a normalized PostgreSQL schema and optimized RESTful APIs for real-time data management.
 
 ---
 
-### Professional History
-
-**Northcross Group** | Full Stack Developer (Jan 2025 – Jul 2025)
-* [cite_start]Engineered RESTful APIs and batch processing services, improving system throughput by 35%[cite: 22].
-* [cite_start]Implemented OAuth2 security and conducted load testing using Artillery[cite: 25].
-
-**Infosys** | Software Developer (Jan 2021 – Dec 2023)
-* [cite_start]Refactored monolithic architecture into microservices, improving scalability by 10%[cite: 31].
-* [cite_start]Optimized database queries for a 15% increase in application performance[cite: 30].
-
----
-
-### Awards
-* [cite_start]**2nd Place:** The Roux Institute Hackathon [cite: 43]
-* [cite_start]**Credo Award:** Recognized for exceptional client service at Infosys [cite: 44]
+### Honors & Awards
+* **2nd Place:** The Roux Institute Hackathon
+* **Credo Award:** Awarded for exceptional technical service at Infosys
