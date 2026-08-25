@@ -6,9 +6,9 @@
 ---
 
 ### Professional Summary
-Software Engineer with over 3+ years of experience developing scalable microservices and high performance web applications. Expertise in **Java/Spring Boot**, **Node.js/React**, and **AWS Cloud infrastructure**.
+Software Engineer with over 4.5+ years of experience developing scalable microservices and high performance web applications. Expertise in **Java/Spring Boot**, **Node.js/React**, and **AWS Cloud infrastructure**.
 
-Previously at **Northcross Group**(6 months CO OP) and **Infosys**(3 Years),Currently pursuing an **MS in Computer Science at Northeastern University** (GPA: 3.85).
+Previously at **Northcross Group**(6 months CO OP),  **Infosys**(3 Years) and **Cradiant**(1 year). **MS in Computer Science at Northeastern University** (GPA: 3.9).
 
 ---
 
