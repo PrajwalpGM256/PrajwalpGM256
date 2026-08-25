@@ -1,5 +1,5 @@
 # Prajwal Gangadhar Melinamane
-**Software Engineer | MS Computer Science Candidate @ Northeastern University**
+**Software Engineer | MS in Computer Science graduate @ Northeastern University**
 
 [Portfolio](https://www.prajwalgm.tech/) | [LinkedIn](https://linkedin.com/in/paztino) | [Email](mailto:gangadharmelinaman.p@northeastern.edu)
 
