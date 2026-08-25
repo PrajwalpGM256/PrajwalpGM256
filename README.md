@@ -25,12 +25,12 @@ Previously at **Northcross Group**(6 months CO OP),  **Infosys**(3 Years) and **
 
 ### Selected Engineering Work
 
-#### Brocode — Intelligent Code Review Assistant
+#### Brocode : Intelligent Code Review Assistant
 *Python, FastAPI, Gemini API, React, Javacsript*
 * Developed an AI system to automate code quality checks and security vulnerability detection.
 * Integrated GitHub Webhooks to intercept Pull Requests and post intelligent refactor suggestions directly as PR comments.
 
-#### JudgmentDay — Sports Prediction Platform
+#### JudgmentDay : Sports Prediction Platform
 *TypeScript, Next.js, PostgreSQL, Node.js*
 * Built a full-stack platform with a focus on web performance and Core Web Vitals.
 * Designed a normalized PostgreSQL schema and optimized RESTful APIs for real-time data management.
